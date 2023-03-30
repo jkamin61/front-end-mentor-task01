@@ -1,0 +1,33 @@
+.qr-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 300px;
+    max-width: 328px;
+    height: 100%;
+    background-color: #fff;
+    margin: 20px auto auto;
+    border-radius: 10px;
+}
+
+.qr-block__image {
+    border-radius: 10px;
+    margin-top: 14px;
+}
+
+.qr-block__heading {
+    text-align: center;
+}
+
+.qr-block__text {
+    text-align: center;
+    margin: 0 10px 20px 10px;
+    color: gray;
+    font-size: 18px;
+}
+@media only screen and (min-width: 768px) {
+.qr-block {
+    margin: 100px auto auto;
+}
+}
