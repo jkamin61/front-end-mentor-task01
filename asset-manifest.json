@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fronteend-mentor-task01/static/css/main.48582f79.css",
+    "main.js": "/fronteend-mentor-task01/static/js/main.a72e1f9e.js",
+    "static/js/787.dd45274e.chunk.js": "/fronteend-mentor-task01/static/js/787.dd45274e.chunk.js",
+    "index.html": "/fronteend-mentor-task01/index.html",
+    "main.48582f79.css.map": "/fronteend-mentor-task01/static/css/main.48582f79.css.map",
+    "main.a72e1f9e.js.map": "/fronteend-mentor-task01/static/js/main.a72e1f9e.js.map",
+    "787.dd45274e.chunk.js.map": "/fronteend-mentor-task01/static/js/787.dd45274e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48582f79.css",
+    "static/js/main.a72e1f9e.js"
+  ]
+}
